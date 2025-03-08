@@ -1,6 +1,6 @@
-pandas 
-matplotlib.pyplot 
-seaborn 
-os
+pandas==1.3.5
+matplotlib==versi 3.5.1
+seaborn==0.11.2
+os 
 zipfile
-requests
+requests==versi 2.26.0
